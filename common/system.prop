@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+persist.camera.HAL3.enabled=1
+vendor.camera.aux.packagelist2=com.android.systemui,net.sourceforge.opencamera

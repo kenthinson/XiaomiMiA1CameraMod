@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: EVi/vnwMitCGcmedsg4jhM0RM4E=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: /laEzDigoJf8h3k5gJgzCUXa808=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: system/vendor/etc/placeholder
+SHA1-Digest-Manifest: +TIK0zHt3IDnoG1yyLaQxsDCJZ8=
+
+Name: system/vendor/etc/media_profiles_v1.xml
+SHA1-Digest-Manifest: gEA68pV6cobV+bH3IkaJ/BPfCEI=
+
+Name: module.prop
+SHA1-Digest-Manifest: z6Zdpgi2WK4u2GRrUgz0C5JkOos=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: system/etc/placeholder
+SHA1-Digest-Manifest: OBm7GMTbTrOmsR8pmmOs/Z3A/xM=
+
+Name: system/vendor/etc/media_profiles_vendor.xml
+SHA1-Digest-Manifest: b4MEennglMZX9HemOJW24MFh9fw=
+
+Name: system/etc/media_profiles.xml
+SHA1-Digest-Manifest: dJPHxdkdGsSQH/IcQDqn0J+b9FY=
+
+Name: system/vendor/etc/media_profiles.xml
+SHA1-Digest-Manifest: rdQzEotmJFqDvKVE3HwhI9HTsc8=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: aGWIWVmzkho55M467iOPC3SnRB4=
+
+Name: README.md
+SHA1-Digest-Manifest: 6FVNxWlCyTWPts3uZMWGhTkqCgc=
+
+Name: config.sh
+SHA1-Digest-Manifest: PYZP9/IywclbHOBSDnlLzSPqSNo=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+

@@ -1,0 +1,7 @@
+id=HEVCEnablerMiA1
+name=HEVC Enabler for Mi A1
+version=v1.0
+versionCode=1
+author=Kent Hinson
+description=Enable the HEVC(High Efficiency Video Codec) with stock bitrate. Also enables Camera2API and access to Telephoto camera using OpenCamera.
+template=1400

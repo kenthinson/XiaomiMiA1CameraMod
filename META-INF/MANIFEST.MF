@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: pkiE6fL1fI3pIezhwQzYLbHwCZQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: system/vendor/etc/placeholder
+SHA1-Digest: rcg7GeeTSRscbqD9i0bNnzLlkvw=
+
+Name: system/vendor/etc/media_profiles_v1.xml
+SHA1-Digest: PdARbSyHxeTPe7AVln3q2UOMiS8=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: module.prop
+SHA1-Digest: iR0Sm84VkfVva6qPrbAff7fQlIs=
+
+Name: system/etc/placeholder
+SHA1-Digest: rcg7GeeTSRscbqD9i0bNnzLlkvw=
+
+Name: system/vendor/etc/media_profiles_vendor.xml
+SHA1-Digest: PdARbSyHxeTPe7AVln3q2UOMiS8=
+
+Name: system/etc/media_profiles.xml
+SHA1-Digest: kWnXtqrRyvWnFYvEWmhylTARY80=
+
+Name: system/vendor/etc/media_profiles.xml
+SHA1-Digest: PdARbSyHxeTPe7AVln3q2UOMiS8=
+
+Name: .gitattributes
+SHA1-Digest: SHkPHaIYmkyiSr/8xl5rnMsx024=
+
+Name: README.md
+SHA1-Digest: w3eCw7dIWhQv4ScP/8LqRr1J2gM=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: config.sh
+SHA1-Digest: vzL5WDhT9ybKqlEiRrvptXS6t4o=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
