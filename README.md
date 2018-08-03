@@ -4,6 +4,8 @@ V2.0 - Dumped Open Camera in favor of Cinema4K for video and Google Camera for p
 Dumped HEVC support as Cinima 4K does not support it.
 I have only tested this with Android 8.1 Offical Rom. Custom roms may not work. If they dont ask for support for the driver from the rom developer I cant change the driver in somone elses custom rom.
 
+V2 uses some of my original ideas and mixes them with other info I have found on xda. Thanks to sipollo for some of the ideas.
+
 v1.0 - Initial Release.
 
 ## Description 
