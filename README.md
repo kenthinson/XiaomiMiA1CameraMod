@@ -1,3 +1,14 @@
+How to install:
+1. Root phone. Don't ask me read this.
+https://forum.xda-developers.com/mi-a1/how-to/root-mi-a1-oreo-8-0-disabling-ota-magisk-t3728654
+2. Install my magisk module. 
+https://github.com/kenthinson/XiaomiMiA1CameraMod/releases/download/2/v2.zip
+3. Install Google Camera Mod by cstark27.
+Original Post
+https://forum.xda-developers.com/lg-v30/themes/cstark27-google-camera-mod-wide-angle-t3747263
+Direct Link
+https://drive.google.com/open?id=1KVJxQdVukqMR817QMzXBSbNRg5FX3yjs
+
 Change log.
 
 V2.0 - Dumped Open Camera in favor of Cinema4K for video and Google Camera for pictures. 
