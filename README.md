@@ -1,5 +1,8 @@
 Change log.
 
+V2.0 - Dumped Open Camera in favor of Cinema4K for video and Google Camera for pictures. 
+Dumped HEVC support as Cinima 4K does not support it.
+
 v1.0 - Initial Release.
 
 ## Description 
