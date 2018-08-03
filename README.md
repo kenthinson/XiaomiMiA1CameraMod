@@ -8,6 +8,8 @@ Original Post
 https://forum.xda-developers.com/lg-v30/themes/cstark27-google-camera-mod-wide-angle-t3747263
 Direct Link
 https://drive.google.com/open?id=1KVJxQdVukqMR817QMzXBSbNRg5FX3yjs
+4. Optional Install Cinema 4K
+https://play.google.com/store/apps/details?id=com.frozenvolcano.android.cinema4k&hl=en_US
 
 Change log.
 
